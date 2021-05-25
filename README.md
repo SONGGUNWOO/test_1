@@ -20,7 +20,17 @@
   1. 원격의 저장소와 연결!!
   1. git push origin master 
 
-+이후 저장소 확인 
++ 이후 저장소 확인 
+
+# 만약 저장소 연결을 했고   
+ ### 수정된것만을 보내고 싶다면 어떻게 해야할까요?
+
+ 1. git add .
+ 1. 확인 git status 
+ 1. 버전 생성   git commit -m '메세지'
+ 1. git log 확인
+ 1. git push origin master 
+ 1. 깃 허브 확인!
 
 
 
