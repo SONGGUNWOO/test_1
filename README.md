@@ -33,4 +33,13 @@
  1. 깃 허브 확인!
 
 
+# 깃허브를 사용하여 푸쉬를 했는데 안될경우!!! 중요 !!
+
+1. git config --global user.email 을 이용하여 확인한다.  
+만약 아무것도 뜨지 않는다면 
+
+1. git config --local user.email  메일 주소(깃허브에 등록되어 있는 메일 주소를 입력해야한다!!!!)
+
+1. 다시한번 git config --global user.email 을 하여 자기 주소가 뜬다면  push 를 사용해서 잔디를 꾸밀수 있다!!!
+
 
